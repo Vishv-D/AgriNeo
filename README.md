@@ -1,2 +1,2 @@
 # AgriNeo
-for hoc hackathon
+on-going project
